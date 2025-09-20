@@ -1,0 +1,14 @@
+CASE → Used for performance categories (Excellent, Average, Needs Improvement) and others  
+
+AVG() → To calculate student/subject average marks  
+
+COUNT() → For attendance statistics  
+
+Views → Created student_dashboard view.  
+
+##Queries:  
+
+#1. Student Average Performance Report  
+#2. Subject-Wise Class Performance  
+#3. Attendance Percentage per Student  
+#4. View for Dashboard Reporting  
